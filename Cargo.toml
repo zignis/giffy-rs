@@ -1,0 +1,9 @@
+[package]
+name = "giffy-rs"
+version = "1.0.0"
+authors = ["zignis <https://github.com/zignis>"]
+description = "GIF to MP4 conversion using ffmpeg"
+
+[dependencies]
+gif = "0.12.0"
+image = "0.24.6"
